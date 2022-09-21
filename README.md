@@ -1,4 +1,4 @@
-# SOEN342_template
+# E-Academy Platform 
 
 ## Objective
 Here goes the objectives of the project
