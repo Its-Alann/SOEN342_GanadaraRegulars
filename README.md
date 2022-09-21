@@ -22,5 +22,5 @@ Features of the platform
 - William Chong - [Chovv](https://github.com/Chovv)
 
 <!-- Links for buttons -->
-[contributors-shield]: https://img.shields.io/github/contributors/Its-Alann/groupD-soen341project2022.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Its-Alann/SOEN342_GanadaraRegulars.svg?style=for-the-badge
 [contributors-url]: https://github.com/Its-Alann/groupD-soen341project2022/graphs/contributors
