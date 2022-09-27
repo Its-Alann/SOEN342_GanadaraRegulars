@@ -1,13 +1,17 @@
 # E-Academy Platform 
 
 ## Objective
-Here goes the objectives of the project
+The objectives of GanadaRegulars are to provide students with an interactive online learning platform with reputable and trustworthy tutors managed via an adminitrator. The platform will also allow students to have study sessions between each other and push themselves forward in a communal manner.
 
 ## Project Description
-Creating an E-learning platform
+Creation of an E-learning platform equipped with online tools that students can use to help educate themselves.
 
 ## Features
-Features of the platform
+Features of the platform:
+- Easier way to register and login to the platform
+- Interactive group study sessions with other members of the course
+- Included calendar showing availability of tutors
+- Show strenghts of each tutors with a badge system
 
 ## Team members
 [![Contributors][contributors-shield]][contributors-url]
