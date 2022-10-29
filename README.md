@@ -1,7 +1,7 @@
 # E-Academy Platform 
 
 ## Objective
-The objectives of GanadaRegulars are to provide students with an interactive online learning platform with reputable and trustworthy tutors managed via an adminitrator. The platform will also allow students to have study sessions between each other and push themselves forward in a communal manner.
+The objectives of Rent-a-Tutor are to provide students with an interactive online learning platform with reputable and trustworthy tutors managed via an adminitrator. The platform will also allow students to have study sessions between each other and push themselves forward in a communal manner.
 
 ## Project Description
 Rent-a-Tutor is an E-learning platform that offers students with a wide selection of tutors allowing one on one or even group lessons covering a variety of subjects. With access to networking with other students and videos uploaded by our badged tutors, Rent-a-Tutor provides a sense of community which can help lead our students to a brighter future.
